@@ -16,6 +16,7 @@
                 applications            = 'nf-mdi-apps'
                 demo                    = 'nf-cod-preview'
                 samples                 = 'nf-cod-preview'
+                signed                  = 'nf-mdi-certificate'
                 artifacts               = 'nf-cod-package'
                 shortcuts               = 'nf-oct-file_symlink_directory'
                 links                   = 'nf-oct-file_symlink_directory'

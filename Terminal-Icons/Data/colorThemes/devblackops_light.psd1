@@ -15,6 +15,7 @@
         demo                    = '5F3EC3'
         samples                 = '5F3EC3'
         artifacts               = 'D49653'
+        signed                  = '527AFF'
         shortcuts               = 'FF143C'
         links                   = 'FF143C'
         fonts                   = 'DC143C'
