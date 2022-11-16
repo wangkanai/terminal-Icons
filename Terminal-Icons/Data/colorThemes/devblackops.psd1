@@ -12,6 +12,8 @@
                 contacts                = '00FBFF'
                 apps                    = 'FF143C'
                 applications            = 'FF143C'
+                demo                    = '5F3EC3'
+                samples                 = '5F3EC3'
                 artifacts               = 'D49653'
                 shortcuts               = 'FF143C'
                 links                   = 'FF143C'
